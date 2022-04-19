@@ -143,4 +143,10 @@ dist
 
 .DS_Store
 
+<<<<<<< HEAD
 build*
+=======
+build*
+# Local Netlify folder
+.netlify
+>>>>>>> a34c8e1 (main)
